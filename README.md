@@ -130,3 +130,11 @@ Run with arguments
 cd <module>/
 mvn compile exec:java -Dexec.args="..."
 ```
+
+## Authors
+
+| Name           | Github                           |
+| -------------- | -------------------------------- |
+| David Belchior | https://github.com/DavidAkaFunky |
+| Diogo Santos   | https://github.com/DiogoSantoss  |
+| Vasco Correia  | https://github.com/Vaascoo       |
